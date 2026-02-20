@@ -1,0 +1,6 @@
+langchain-community
+PyPDFLoader
+ipykernel
+langchain-text-splitters
+HuggingFaceEmbeddings
+faiss-cpu
