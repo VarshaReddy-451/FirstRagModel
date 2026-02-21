@@ -1,6 +1,7 @@
+langchain
 langchain-community
-PyPDFLoader
-ipykernel
 langchain-text-splitters
-HuggingFaceEmbeddings
+pypdf
+sentence-transformers
 faiss-cpu
+ipykernel
